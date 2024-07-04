@@ -1,0 +1,16 @@
+name: MTrims
+api: 5.0.0
+version: 1.0.0
+main: trim\Main
+author: MagmaZ3637
+
+commands:
+  trimsui:
+    description: Open Trim UI
+    permission: trim.use
+    aliases: ["trimui", "tui"]
+
+permissions:
+  trim.use:
+    description: Open Trim UI
+    default: op
