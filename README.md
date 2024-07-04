@@ -31,7 +31,7 @@
 ***
 1. [x] Permission
 2. [x] UI
-3. [ ] Add more material
+3. [ ] Adding More Material
 
 ## 📃 LICENCE
 ***
