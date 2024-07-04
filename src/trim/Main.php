@@ -12,8 +12,8 @@ use pocketmine\block\VanillaBlocks;
 use pocketmine\block\inventory\SmithingTableInventory;
 use pocketmine\event\player\PlayerInteractEvent;
 
-use Vecnavium\FormsUI\Form;
-use Vecnavium\FormsUI\SimpleForm;
+use jojoe77777\FormsUI\Form;
+use jojoe77777\FormsUI\SimpleForm;
 
 use trim\subform\Amethyst;
 use trim\subform\Diamond;
