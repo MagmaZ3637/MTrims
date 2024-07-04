@@ -27,6 +27,12 @@
 |-----------|------------|---------------|
 | `trimsui` |    `trim.use`        | `trims / tui` |
 
+### ✅ TODO
+***
+1. [x] Permission
+2. [x] UI
+3. [ ] Add more material
+
 ## 📃 LICENCE
 ***
 [Apache Licence 2.0](https://github.com/MagmaZ3637/MTrims?tab=Apache-2.0-1-ov-file#)
