@@ -1,6 +1,6 @@
 # 🧥 MTrims 🎉
 ***
-**MTrims Is Pocketmine Plugin Can Add Trims To Your Server**
+**MTrims. Pocketmine Plugin Can Add Trims To Your Server**
 
 ![img.png](img.png)
 
