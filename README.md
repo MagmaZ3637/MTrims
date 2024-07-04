@@ -1,6 +1,6 @@
 # 🧥 MTrims 🎉
 ***
-**MTrims. Pocketmine Plugin Can Add Trims To Your Server**
+**Simple Plugin For LibTrimArmor. This plugin can add trims to your server**
 
 ![img.png](img.png)
 
@@ -12,8 +12,8 @@
 
 ## 💾 INSTALLATION
 ***
-1. Download `latest` MTrims
-2. Place MTrims file into `plugins` directory
+1. Download `latest` MTrims and `virion` depend
+2. Place MTrims file into `plugins` directory and virion depend into `virion` directory
 3. Restart The Server
 
 ### ❗ VIRION DEPEND
