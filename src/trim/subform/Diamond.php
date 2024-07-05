@@ -8,8 +8,8 @@ use pocketmine\event\Listener;
 use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
 
-use jojoe77777\FormsUI\Form;
-use jojoe77777\FormsUI\SimpleForm;
+use jojoe77777\FormAPI\Form;
+use jojoe77777\FormAPI\SimpleForm;
 use trim\Main;
 
 use KRUNCHSHooT\LibTrimArmor\LibTrimArmor;
