@@ -8,8 +8,8 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\player\Player;
 
-use jojoe77777\FormsUI\Form;
-use jojoe77777\FormsUI\SimpleForm;
+use jojoe77777\FormAPI\Form;
+use jojoe77777\FormAPI\SimpleForm;
 
 use trim\subform\Amethyst;
 use trim\subform\Diamond;
