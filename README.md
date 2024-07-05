@@ -4,7 +4,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1070949916022669405/1258376516253782056/Screenshot_20240704-175544.png?ex=66887ab4&is=66872934&hm=f7c1016dea5f930b1ba440c654f76b625638ca8597f3057bdd72f5812f2a7c6d&">
 
-![image](https://github.com/MagmaZ3637/MTrims/assets/136096007/6c00859a-7988-4c7e-877c-8f2fb6e28a31)
+         ![image](https://github.com/MagmaZ3637/MTrims/assets/136096007/6c00859a-7988-4c7e-877c-8f2fb6e28a31)
 
 
 ## 🔰 IMAGES
