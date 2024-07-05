@@ -7,9 +7,9 @@ projects:
     path: ""
     icon: "icon.png"
     libs:
-      - src: jojoe77777/FormsUI/FormsUI
+      - src: jojoe77777/FormAPI/libFormAPI
         version: ^2.1.1
-      - src: KRUNCHSHooT\LibTrimArmor\LibTrimArmor
+      - src: KRUNCHSHooT/LibTrimArmor/LibTrimArmor
         version: ^1.0.0
     lint:
      phpstan: false
