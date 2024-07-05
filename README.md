@@ -4,11 +4,12 @@
 
 <img src="https://cdn.discordapp.com/attachments/1070949916022669405/1258376516253782056/Screenshot_20240704-175544.png?ex=66887ab4&is=66872934&hm=f7c1016dea5f930b1ba440c654f76b625638ca8597f3057bdd72f5812f2a7c6d&">
 
+![image](https://github.com/MagmaZ3637/MTrims/assets/136096007/6c00859a-7988-4c7e-877c-8f2fb6e28a31)
+
+
 ## 🔰 IMAGES
 ***
 <img src="https://cdn.discordapp.com/attachments/1070949916022669405/1258376516681728031/Screenshot_20240704-175756.png?ex=66887ab5&is=66872935&hm=7d6ba743bce6277dca495aefb58e91734da6ca94d12ce98a135c10c33b6aa467&">
-
-https://poggit.pmmp.io/ci.badge/MagmaZ3637/MTrims/MTrims?build=18
 
 <img src="https://cdn.discordapp.com/attachments/1070949916022669405/1258376517126193233/Screenshot_20240704-175802.png?ex=66887ab5&is=66872935&hm=9536c1bc9a3d21e24fcf82a6502eafe3d0811a62994119d5c119a45876cde6ff&">
 
