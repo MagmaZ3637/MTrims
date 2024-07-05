@@ -7,10 +7,6 @@ use pocketmine\command\CommandSender;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\player\Player;
-use pocketmine\block\SmithingTable;
-use pocketmine\block\VanillaBlocks;
-use pocketmine\block\inventory\SmithingTableInventory;
-use pocketmine\event\player\PlayerInteractEvent;
 
 use jojoe77777\FormsUI\Form;
 use jojoe77777\FormsUI\SimpleForm;
