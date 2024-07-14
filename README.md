@@ -4,7 +4,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1070949916022669405/1258376516253782056/Screenshot_20240704-175544.png?ex=66887ab4&is=66872934&hm=f7c1016dea5f930b1ba440c654f76b625638ca8597f3057bdd72f5812f2a7c6d&">
 
-![image](https://github.com/MagmaZ3637/MTrims/assets/136096007/6c00859a-7988-4c7e-877c-8f2fb6e28a31) [![](https://poggit.pmmp.io/shield.state/MTrims)](https://poggit.pmmp.io/p/MTrims)
+[![Lint](https://poggit.pmmp.io/ci.shield/MagmaZ3637/MTrims/MTrims)](https://poggit.pmmp.io/ci/MagmaZ3637/MTrims/MTrims)
 
 
 ## 🔰 IMAGES
@@ -19,13 +19,13 @@
 2. Place MTrims file into `plugins` directory and virion depend into `virion` directory
 3. Restart The Server
 
-### ❗ VIRION DEPEND
+## ❗ VIRION DEPEND
 ***
 [LibTrimArmor](https://github.com/KRUNCHSHooT/LibTrimArmor)
 
 [FormAPI](https://github.com/jojoe77777/FormAPI)
 
-### 🎮 COMMAND AND PERMISSION
+## 🎮 COMMAND AND PERMISSION
 ***
 
 | Command   | Permission | Aliases       |
