@@ -4,10 +4,10 @@ branches:
 - main
 projects:
   MTrims:
+    path: ""
     libs:
       - src: jojoe77777/FormAPI/libFormAPI
         version: ^2.1.1
       - src: KRUNCHSHooT/LibTrimArmor/LibTrimArmor
         version: ^1.0.0
-    path: ""
 ...
