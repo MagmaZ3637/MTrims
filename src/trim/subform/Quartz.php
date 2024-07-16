@@ -88,7 +88,6 @@ class Quartz
                     break;
                 case 6:
                     $this->plugin->getChoiceForm($player);
-                    PluginUtils::PlaySound($player, "random.pop2", 1, 2.8);
                     break;
             }
         });
