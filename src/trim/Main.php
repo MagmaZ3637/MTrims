@@ -37,7 +37,7 @@ class Main extends PluginBase implements Listener
                 if($sender instanceof Player){
                     $this->getChoiceForm($sender);
                 }else{
-                    $sender->sendMessage("GK ADA PERM ANJ. LU ITU GK OP TOLOL-TOLOL");
+                    $sender->sendMessage("You don't have the permission");
                 }
                 break;
         }
