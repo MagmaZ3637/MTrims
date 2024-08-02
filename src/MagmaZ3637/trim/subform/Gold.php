@@ -10,7 +10,7 @@ use pocketmine\plugin\PluginBase;
 
 use jojoe77777\FormAPI\Form;
 use jojoe77777\FormAPI\SimpleForm;
-use trim\Main;
+use MagmaZ3637\trim\Main;
 
 use KRUNCHSHooT\LibTrimArmor\LibTrimArmor;
 use KRUNCHSHooT\LibTrimArmor\MaterialType;
