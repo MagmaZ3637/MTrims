@@ -1,6 +1,6 @@
 <?php
 
-namespace trim;
+namespace MagmaZ3637\trim;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
