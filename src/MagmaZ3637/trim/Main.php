@@ -11,12 +11,12 @@ use pocketmine\player\Player;
 use jojoe77777\FormAPI\Form;
 use jojoe77777\FormAPI\SimpleForm;
 
-use trim\subform\Amethyst;
-use trim\subform\Diamond;
-use trim\subform\Emerald;
-use trim\subform\Gold;
-use trim\subform\Quartz;
-use trim\subform\Redstone;
+use MagmaZ3637\trim\subform\Amethyst;
+use MagmaZ3637\trim\subform\Diamond;
+use MagmaZ3637\trim\subform\Emerald;
+use MagmaZ3637\trim\subform\Gold;
+use MagmaZ3637\trim\subform\Quartz;
+use MagmaZ3637\trim\subform\Redstone;
 
 use KRUNCHSHooT\LibTrimArmor\LibTrimArmor;
 use KRUNCHSHooT\LibTrimArmor\MaterialType;
