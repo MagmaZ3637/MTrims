@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace trim\subform;
+namespace MagmaZ3637\trim\subform;
 
 use pocketmine\event\Listener;
 use pocketmine\player\Player;
