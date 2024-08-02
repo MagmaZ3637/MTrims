@@ -1,7 +1,7 @@
 name: MTrims
 api: 5.0.0
 version: 1.0.0
-main: trim\Main
+main: MagmaZ3637\trim\Main
 author: MagmaZ3637
 
 commands:
